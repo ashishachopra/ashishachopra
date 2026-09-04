@@ -4,22 +4,16 @@
 
 # 🌟 About Me
 - 💻 Belief: **Brains before bots. Always**
-- 🎯 Goal for Life: **Dream it, build it, line by line, your own creation, one of a kind. Every bug you fix, every goal you hit, Write your own code — you’re made for it!**
+- 🎯 Goal for Life: **Dream it, build it, line by line, your own creation, one of a kind. 
+                      Every bug you fix, every goal you hit, Write your own code — you’re made for it!**
 ---
 
 # 📌 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [AI Task Manager](https://github.com/username/ai-task-manager) | Smart task management with AI suggestions | Next.js, OpenAI API |
-| [Dev Portfolio](https://github.com/username/dev-portfolio) | Minimal, responsive portfolio template | Astro, Tailwind CSS |
-| [API Boilerplate](https://github.com/username/api-boilerplate) | Ready-to-use REST API starter | Node.js, Express, PostgreSQL |
-
----
-
-# 📊 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishachopra&show_icons=true&theme=radical)](https://github.com/ashishachopra/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishachopra&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishachopra&layout=compact&theme=radical)
+| Project | Description |
+|---------|-------------|
+| [Snowflake Bible](https://github.com/ashishachopra/SnowflakeBible) | Links to some great articles, guides and minds doing awesome work on Snowflake |
+| [Databricks Bible](https://github.com/ashishachopra/TeradataBible) | Links to some great articles, guides and minds doing awesome work on Teradata |
+| [Teradata Bible](https://github.com/ashishachopra/Databricks---Bible) | Links to some great articles, guides and minds doing awesome work on Databricks |
 
 ---
 
