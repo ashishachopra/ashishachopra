@@ -21,4 +21,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chopra-0405017402)
 
 ---
-💡 # *"Code is like humor. When you have to explain it, it’s bad."*
+# 💡*"Code is like humor. When you have to explain it, it’s bad."*
