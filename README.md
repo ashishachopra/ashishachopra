@@ -3,7 +3,7 @@
 ---
 
 # 🌟 About Me
-- 💻 Belief: **Brains before bots. Always**
+- 💻 Belief: **Brains Before Bots - ALWAYS**
 - 🎯 Goal for Life: **Dream it, build it, line by line, your own creation, one of a kind. 
                       Every bug you fix, every goal you hit, Write your own code — you’re made for it!**
 ---
@@ -21,4 +21,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chopra-0405017402)
 
 ---
-# 💡*"Code is like humor. When you have to explain it, it’s bad."*
+# 💡"Code is like humor. When you have to explain it, it’s bad."
