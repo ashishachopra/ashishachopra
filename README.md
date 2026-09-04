@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Aashish
-
 🚀 **Architect | Engineer | Open-Source Contributor**  
 ---
 
@@ -18,6 +17,7 @@
 ---
 
 # 📊 GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishachopra&show_icons=true&theme=radical)](https://github.com/ashishachopra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishachopra&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishachopra&layout=compact&theme=radical)
 
