@@ -19,7 +19,14 @@ Dream it, build it, line by line, Your own creation, one of a kind. Every bug yo
 | [RAG](https://github.com/ashishachopra/AwesomeRAG) | Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI |
 | [Advanced RAG](https://github.com/ashishachopra/RAG_Techniques) | Advanced techniques for Retrieval-Augmented Generation (RAG) systems  |
 | [ML, Deep learning, NLP](https://github.com/ashishachopra/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
-| [ML Projects](https://github.com/ashishachopra/MachineLearningProjects) | MachineLearningProjects |
+| [ML Projects](https://github.com/ashishachopra/MachineLearningProjects) | Machine Learning Projects |
 
 ---
+# 📌 Personal Projects
+| Project | Description |
+|---------|-------------|
+| [SNOWFLAKE](https://github.com/ashishachopra/Gunner-SnowflakeML-Examples) | SnowflakeML-Examples |
+| [DATABRICKS](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
+| [TERADATA](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
+
 # 💡"Code is like humor. When you have to explain it, it’s bad."
