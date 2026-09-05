@@ -18,8 +18,10 @@ Dream it, build it, line by line, Your own creation, one of a kind. Every bug yo
 | [Advanced RAG](https://github.com/ashishachopra/RAG_Techniques) | Advanced techniques for Retrieval-Augmented Generation (RAG) systems  |
 | [ML, Deep learning, NLP](https://github.com/ashishachopra/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 100+ AI Machine learning Deep learning Computer vision NLP Projects with code |
 | [ML Projects](https://github.com/ashishachopra/MachineLearningProjects) | Machine Learning Projects |
+| [GraphDB BenchMarking](https://github.com/ashishachopra/GraphDB-Benchmarking) | GraphDB BenchMarking - Neo4j vs Amazon Neptune vs Titan vs TigerGraph vs JanusGraph vs Arangodb |
 | [Neo4j Skills](https://github.com/ashishachopra/Neo4j-Skills) ; [Neo4j GDS Agents](https://github.com/ashishachopra/Neo4j-GDS-Agent) | Neo4J Projects |
-| [Tiger Graph E2E](https://github.com/ashishachopra/TigerGraph-E2E) ; [Tiger Graph GSQL](https://github.com/ashishachopra/TigerGraph-GSQL-Algo) ; [Tiger Graph ML](https://github.com/ashishachopra/TigerGraph-ML) ; [Tiger Graph GraphRAG](https://github.com/ashishachopra/TigerGraph-GraphRag) | Tiger Graph Projects |
+| [TigerGraph E2E](https://github.com/ashishachopra/TigerGraph-E2E) ; [TigerGraph GSQL](https://github.com/ashishachopra/TigerGraph-GSQL-Algo) ; [TigerGraph ML](https://github.com/ashishachopra/TigerGraph-ML) ; [TigerGraph GraphRAG](https://github.com/ashishachopra/TigerGraph-GraphRag) ; [TigerGraph FraudDetection](https://github.com/ashishachopra/TigerGraph-FraudDetection) | Tiger Graph Projects |
+| [GraphQL](https://github.com/ashishachopra/GraphQL) | Awesome list of GraphQL |
 
 ---
 # 📌 Personal Projects
