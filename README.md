@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aashish
+# 👋 Hi, I'm Ashish
 🚀 **Architect | Engineer | Open-Source Contributor**  
 ---
 
@@ -11,9 +11,11 @@
 # 📌 Featured Projects
 | Project | Description |
 |---------|-------------|
+| [AI/ML, GenAI, Graph-Ontology, Modelling Concepts](https://github.com/ashishachopra/Concepts) | Links to basic concepts around AI/ML, GENAI, Graph-Ontology, Vectors, Models & Evaluations |
 | [Snowflake Bible](https://github.com/ashishachopra/SnowflakeBible) | Links to some great articles, guides and minds doing awesome work on Snowflake |
 | [Databricks Bible](https://github.com/ashishachopra/TeradataBible) | Links to some great articles, guides and minds doing awesome work on Teradata |
 | [Teradata Bible](https://github.com/ashishachopra/Databricks---Bible) | Links to some great articles, guides and minds doing awesome work on Databricks |
+| [Prompt Engineering](https://github.com/ashishachopra/Prompt_Engineering) | Collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies|
 
 ---
 
