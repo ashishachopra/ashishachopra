@@ -14,7 +14,8 @@
 | [Teradata Bible](https://github.com/ashishachopra/Databricks---Bible) | Links to some great articles, guides and minds doing awesome work on Databricks |
 | [Claude E2E](https://github.com/ashishachopra/Claude-Everything) ; [Claude Design](https://github.com/ashishachopra/Claude-Design) ; [Claude SDK & Plugin](https://github.com/ashishachopra/Claude-Mem) ; [Claude Skills](https://github.com/ashishachopra/Claude-CodeSkills) | Claude E2E - SDK, Plugins, Design, Skills|
 | [Claude Rebuild](https://github.com/ashishachopra/Claude-Code-Rebuilt) ; [Claude Rebuild PYRUST](https://github.com/ashishachopra/Claude-Code-PYRUST) | Claude Source Code rebuilt into a runnable CLI & Python Porting|
-| [Prompt Engineering](https://github.com/ashishachopra/Prompt_Engineering) | Tutorials and Implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies|
+| [Nvidia Skills](https://github.com/ashishachopra/Nvidia-Skills) | AI agent skills by NVIDIA |
+| [Prompt Engineering](https://github.com/ashishachopra/Prompt_Engineering) | Tutorials and Implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies |
 | [RAG](https://github.com/ashishachopra/AwesomeRAG) | Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI |
 | [Advanced RAG](https://github.com/ashishachopra/RAG_Techniques) | Advanced techniques for Retrieval-Augmented Generation (RAG) systems  |
 | [ML, Deep learning, NLP](https://github.com/ashishachopra/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 100+ AI Machine learning Deep learning Computer vision NLP Projects with code |
