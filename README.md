@@ -5,10 +5,7 @@
 # 🌟🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chopra-0405017402)
 # BRAIN BEFORE BOTS - ALWAYS !
-**Dream it, build it, line by line, 
-Your own creation, one of a kind. 
-Every bug you fix, every goal you hit, 
-Write your own code — you’re made for it!**
+Dream it, build it, line by line, Your own creation, one of a kind. Every bug you fix, every goal you hit, Write your own code — you’re made for it!
 ---
 
 # 📌 Featured Projects
@@ -21,6 +18,8 @@ Write your own code — you’re made for it!**
 | [Prompt Engineering](https://github.com/ashishachopra/Prompt_Engineering) | Collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies|
 | [RAG](https://github.com/ashishachopra/AwesomeRAG) | Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI |
 | [Advanced RAG](https://github.com/ashishachopra/RAG_Techniques) | Advanced techniques for Retrieval-Augmented Generation (RAG) systems  |
+| [ML, Deep learning, NLP](https://github.com/ashishachopra/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
+| [ML Projects](https://github.com/ashishachopra/MachineLearningProjects) | MachineLearningProjects |
 
 ---
 # 💡"Code is like humor. When you have to explain it, it’s bad."
