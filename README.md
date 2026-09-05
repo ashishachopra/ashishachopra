@@ -20,8 +20,8 @@
 | [Prompt Engineering](https://github.com/ashishachopra/Prompt_Engineering) | Tutorials and Implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies |
 | [LLM Benchmarks](https://github.com/ashishachopra/LLM-Perf-BenchMarks) | LLM Performance Benchmarking |
 | [Headroom](https://github.com/ashishachopra/Headroom-TokenReduction) ; [Onyx](https://github.com/ashishachopra/ONYX-OpenSourceAIPlatform) ; [MCP Servers](https://github.com/ashishachopra/MCP-Servers) ; [Web LLM](https://github.com/ashishachopra/WEB-LLM-InBrowserLLMInferEngine) | Headroom-LLM Token Reduction, ONYX-OpenSource AI Platform, MCP-Servers, WEB-LLM-InBrowser LLM Inference Engine |
-| [LLM Binaries](https://github.com/ashishachopra/MLC-LLM-Binary-LibS) ; [vLLM Recipes](https://github.com/ashishachopra/vLLM-Recipes) ; [AI Engineering](https://github.com/ashishachopra/AI-Engineering-Hub) | LLM Recipes, Binaries,  LLMs-RAGs-AIAgent apps |
-| [GenAI](https://github.com/ashishachopra/Awesome-GenAI) ; [Python](https://github.com/ashishachopra/Awesome-Python) ; [LangChain](https://github.com/ashishachopra/Awesome-LangChain) ; [DockerCompose](https://github.com/ashishachopra/Awesome-DockerCompose) ; [NLP](https://github.com/ashishachopra/Awesome-NLP) ; [AIAgents](https://github.com/ashishachopra/Awesome-AIAgents) | Collection of multiple awesome GenAI, Python, LangChain, DockerCompose, NLP, AIAgents Solutions |
+| [LLM HandsOn](https://github.com/ashishachopra/LLM-HandsOn) ; [LLM Binaries](https://github.com/ashishachopra/MLC-LLM-Binary-LibS) ; [vLLM Recipes](https://github.com/ashishachopra/vLLM-Recipes) ; [AI Engineering](https://github.com/ashishachopra/AI-Engineering-Hub) | LLM Recipes, Binaries,  LLMs-RAGs-AIAgent apps |
+| [GenAI](https://github.com/ashishachopra/Awesome-GenAI) ; [GenAI Agents](https://github.com/ashishachopra/GenAI_Agents) ; [Python](https://github.com/ashishachopra/Awesome-Python) ; [LangChain](https://github.com/ashishachopra/Awesome-LangChain) ; [DockerCompose](https://github.com/ashishachopra/Awesome-DockerCompose) ; [NLP](https://github.com/ashishachopra/Awesome-NLP) ; [AIAgents](https://github.com/ashishachopra/Awesome-AIAgents) | Collection of multiple awesome GenAI, Python, LangChain, DockerCompose, NLP, AIAgents Solutions |
 | [RAG](https://github.com/ashishachopra/AwesomeRAG) | Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI |
 | [Advanced RAG](https://github.com/ashishachopra/RAG_Techniques) | Advanced techniques for Retrieval-Augmented Generation (RAG) systems  |
 | [ML, Deep learning, NLP](https://github.com/ashishachopra/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 100+ AI Machine learning Deep learning Computer vision NLP Projects with code |
@@ -33,16 +33,17 @@
 | [Ontology Docs](https://github.com/ashishachopra/Ontology-Docs) ; [Ontology E2E](https://github.com/ashishachopra/Ontology-E2E) ; [Ontology RAG](https://github.com/ashishachopra/Ontology-RAG) ; [CovertToOntology](https://github.com/ashishachopra/ConvertAnything2Ontology)| Ontology |
 
 ---
-# 📌 Personal Projects
+# 📌 Other Projects
 | Project | Description |
 |---------|-------------|
-| [SNOWFLAKE](https://github.com/ashishachopra/Gunner-SnowflakeML-Examples) ; [SF-Kafka-SnowpipeStream](https://github.com/ashishachopra/SF-Kafka-SnowpipeStream) ; [SF-SnowpipeStream](https://github.com/ashishachopra/snowpipe-stream) ; [SF-SnowDDL](https://github.com/ashishachopra/SnowDDL) ; [SF-StreamlitMCP](https://github.com/ashishachopra/streamlit_mcp_cortex) ;  | SnowflakeML-Examples |
+| [SNOWFLAKE](https://github.com/ashishachopra/Gunner-SnowflakeML-Examples) ; [SF-Kafka-SnowpipeStream](https://github.com/ashishachopra/SF-Kafka-SnowpipeStream) ; [SF-SnowpipeStream](https://github.com/ashishachopra/snowpipe-stream) ; [SF-SnowpipeStreamIceberg](https://github.com/ashishachopra/SF-Snowpipe-Iceberg) ; [SF-DocAI](https://github.com/ashishachopra/SF-DocAI) ; [SF-SnowDDL](https://github.com/ashishachopra/SnowDDL) ; [SF-StreamlitMCP](https://github.com/ashishachopra/streamlit_mcp_cortex) ; [SF-SnowConvert](https://github.com/ashishachopra/SF-SnowConvert) ; [SF-OnlineFS](https://github.com/ashishachopra/SF-OnlineFS) | SnowflakeML-Examples |
 | [DATABRICKS](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
 | [TERADATA](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
 | [AML-FCrime-AI](https://github.com/ashishachopra/Gunner-AML-FCrime-AI) | AML compliance - AI/ML Solution with OpenAI integration |
 | [ISO Parser-Java](https://github.com/ashishachopra/Gunner-java-iso20022-parser) | JAVA - parser for ISO 20022 messages |
 | [ISO Parser-Python](https://github.com/ashishachopra/Gunner-parse-pyiso20022) | PYTHON PYISO20022 - parser for ISO 20022 messages |
 | [ISO Parser-Rust](https://github.com/ashishachopra/Gunner-parsing-mx20022-Rust) | RUST - parser for ISO 20022 messages |
+| [Anamoly Detection](https://github.com/ashishachopra/Anamoly-Detection-LLM-and-VLM) | Anomaly detection related books, papers, videos, and toolboxes |
 | [OpenBanking](https://github.com/ashishachopra/AUS-OpenBanking) ; [OpenBanking Demo](https://github.com/ashishachopra/AUS-OpenBanking-DEMO) | AUS Open Banking |
 
 ---
