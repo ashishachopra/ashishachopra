@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Ashish
+# 👋 Hi, I'm Ashish  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chopra-0405017402)
 🚀 **Architect | Engineer | Open-Source Contributor**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chopra-0405017402)
 
 ---
-# BRAIN BEFORE BOTS - ALWAYS !
+![Alt Text](ASHISH.png).
 
 ---
 # 📌 Featured Projects
