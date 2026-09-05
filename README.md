@@ -18,6 +18,8 @@ Dream it, build it, line by line, Your own creation, one of a kind. Every bug yo
 | [Advanced RAG](https://github.com/ashishachopra/RAG_Techniques) | Advanced techniques for Retrieval-Augmented Generation (RAG) systems  |
 | [ML, Deep learning, NLP](https://github.com/ashishachopra/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
 | [ML Projects](https://github.com/ashishachopra/MachineLearningProjects) | Machine Learning Projects |
+| [Neo4j Skills](https://github.com/ashishachopra/Neo4j-Skills) ; [Neo4j GDS Agents](https://github.com/ashishachopra/Neo4j-GDS-Agent) | Neo4J Projects |
+| [Tiger Graph E2E](https://github.com/ashishachopra/TigerGraph-E2E) ; [Tiger Graph GSQL](https://github.com/ashishachopra/TigerGraph-GSQL-Algo) ; [Tiger Graph ML](https://github.com/ashishachopra/TigerGraph-ML) ; [Tiger Graph GraphRAG](https://github.com/ashishachopra/TigerGraph-GraphRag) | Tiger Graph Projects |
 
 ---
 # 📌 Personal Projects
