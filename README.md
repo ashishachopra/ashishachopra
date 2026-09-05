@@ -4,7 +4,7 @@
 
 # 🌟🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chopra-0405017402)
-- # BRAIN BEFORE BOTS - ALWAYS
+# BRAIN BEFORE BOTS - ALWAYS
 *Dream it, build it, line by line, your own creation, one of a kind. 
 Every bug you fix, every goal you hit, Write your own code — you’re made for it!*
 ---
