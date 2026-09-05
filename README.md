@@ -13,6 +13,7 @@
 | [Databricks Bible](https://github.com/ashishachopra/TeradataBible) | Links to some great articles, guides and minds doing awesome work on Teradata |
 | [Teradata Bible](https://github.com/ashishachopra/Databricks---Bible) | Links to some great articles, guides and minds doing awesome work on Databricks |
 | [Python All Algos](https://github.com/ashishachopra/Python-AllAlgos) | All Algorithms implemented in Python |
+| [Knowledge Books](https://github.com/ashishachopra/Book-of-Knowledge) | Collection of manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | [Claude E2E](https://github.com/ashishachopra/Claude-Everything) ; [Claude Design](https://github.com/ashishachopra/Claude-Design) ; [Claude SDK & Plugin](https://github.com/ashishachopra/Claude-Mem) ; [Claude Skills](https://github.com/ashishachopra/Claude-CodeSkills) | Claude E2E - SDK, Plugins, Design, Skills|
 | [Claude Rebuild](https://github.com/ashishachopra/Claude-Code-Rebuilt) ; [Claude Rebuild PYRUST](https://github.com/ashishachopra/Claude-Code-PYRUST) | Claude Source Code rebuilt into a runnable CLI & Python Porting|
 | [Claude FSI](https://github.com/ashishachopra/Claude-FSI) | Anthropic - Fin Services Solution |
