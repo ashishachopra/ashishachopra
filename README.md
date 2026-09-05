@@ -21,6 +21,7 @@
 | [Neo4j Skills](https://github.com/ashishachopra/Neo4j-Skills) ; [Neo4j GDS Agents](https://github.com/ashishachopra/Neo4j-GDS-Agent) | Neo4J Projects |
 | [TigerGraph E2E](https://github.com/ashishachopra/TigerGraph-E2E) ; [TigerGraph GSQL](https://github.com/ashishachopra/TigerGraph-GSQL-Algo) ; [TigerGraph ML](https://github.com/ashishachopra/TigerGraph-ML) ; [TigerGraph GraphRAG](https://github.com/ashishachopra/TigerGraph-GraphRag) ; [TigerGraph FraudDetection](https://github.com/ashishachopra/TigerGraph-FraudDetection) | Tiger Graph Projects |
 | [GraphQL](https://github.com/ashishachopra/GraphQL) | Awesome list of GraphQL |
+| [Ontology Docs](https://github.com/ashishachopra/Ontology-Docs) ; [Ontology E2E](https://github.com/ashishachopra/Ontology-E2E) ; [Ontology RAG](https://github.com/ashishachopra/Ontology-RAG) ; [CovertToOntology](https://github.com/ashishachopra/ConvertAnything2Ontology)| Ontology |
 
 ---
 # 📌 Personal Projects
