@@ -2,9 +2,10 @@
 🚀 **Architect | Engineer | Open-Source Contributor**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chopra-0405017402)
 
-# BRAIN BEFORE BOTS - ALWAYS !
 ---
+# BRAIN BEFORE BOTS - ALWAYS !
 
+---
 # 📌 Featured Projects
 | Project | Description |
 |---------|-------------|
@@ -31,4 +32,5 @@
 | [DATABRICKS](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
 | [TERADATA](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
 
+---
 # 💡"Code is like humor. When you have to explain it, it’s bad."
