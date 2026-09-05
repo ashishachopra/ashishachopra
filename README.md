@@ -36,13 +36,14 @@
 # 📌 Personal Projects
 | Project | Description |
 |---------|-------------|
-| [SNOWFLAKE](https://github.com/ashishachopra/Gunner-SnowflakeML-Examples) | SnowflakeML-Examples |
+| [SNOWFLAKE](https://github.com/ashishachopra/Gunner-SnowflakeML-Examples) ; [SF-Kafka-SnowpipeStream](https://github.com/ashishachopra/SF-Kafka-SnowpipeStream) ; [SF-SnowpipeStream](https://github.com/ashishachopra/snowpipe-stream) ; [SF-SnowDDL](https://github.com/ashishachopra/SnowDDL) ; [SF-StreamlitMCP](https://github.com/ashishachopra/streamlit_mcp_cortex) ;  | SnowflakeML-Examples |
 | [DATABRICKS](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
 | [TERADATA](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
 | [AML-FCrime-AI](https://github.com/ashishachopra/Gunner-AML-FCrime-AI) | AML compliance - AI/ML Solution with OpenAI integration |
 | [ISO Parser-Java](https://github.com/ashishachopra/Gunner-java-iso20022-parser) | JAVA - parser for ISO 20022 messages |
 | [ISO Parser-Python](https://github.com/ashishachopra/Gunner-parse-pyiso20022) | PYTHON PYISO20022 - parser for ISO 20022 messages |
 | [ISO Parser-Rust](https://github.com/ashishachopra/Gunner-parsing-mx20022-Rust) | RUST - parser for ISO 20022 messages |
+| [OpenBanking](https://github.com/ashishachopra/AUS-OpenBanking) ; [OpenBanking Demo](https://github.com/ashishachopra/AUS-OpenBanking-DEMO) | AUS Open Banking |
 
 ---
 # 💡"Code is like humor. When you have to explain it, it’s bad."
