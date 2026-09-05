@@ -32,6 +32,7 @@
 | [TigerGraph E2E](https://github.com/ashishachopra/TigerGraph-E2E) ; [TigerGraph GSQL](https://github.com/ashishachopra/TigerGraph-GSQL-Algo) ; [TigerGraph ML](https://github.com/ashishachopra/TigerGraph-ML) ; [TigerGraph GraphRAG](https://github.com/ashishachopra/TigerGraph-GraphRag) ; [TigerGraph FraudDetection](https://github.com/ashishachopra/TigerGraph-FraudDetection) | Tiger Graph Projects |
 | [GraphQL](https://github.com/ashishachopra/GraphQL) | Awesome list of GraphQL |
 | [Ontology Docs](https://github.com/ashishachopra/Ontology-Docs) ; [Ontology E2E](https://github.com/ashishachopra/Ontology-E2E) ; [Ontology RAG](https://github.com/ashishachopra/Ontology-RAG) ; [CovertToOntology](https://github.com/ashishachopra/ConvertAnything2Ontology)| Ontology |
+| [Kimi Moonshots most powerful model](https://github.com/ashishachopra/kimi-k2.5) ; [Molbot OpenClaw Personal AIAssistant ](https://github.com/ashishachopra/molbot-OpenClaw) ; [Wraps Oz AIAgent Workspace](https://github.com/ashishachopra/oz-workspace) ; [MicroFish SwarmIntelligenceEngine](https://github.com/ashishachopra/MiroFish)| Random Others - Platforms, Models |
 
 ---
 # 📌 Other Projects
