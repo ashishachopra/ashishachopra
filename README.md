@@ -14,6 +14,7 @@
 | [Teradata Bible](https://github.com/ashishachopra/Databricks---Bible) | Links to some great articles, guides and minds doing awesome work on Databricks |
 | [Claude E2E](https://github.com/ashishachopra/Claude-Everything) ; [Claude Design](https://github.com/ashishachopra/Claude-Design) ; [Claude SDK & Plugin](https://github.com/ashishachopra/Claude-Mem) ; [Claude Skills](https://github.com/ashishachopra/Claude-CodeSkills) | Claude E2E - SDK, Plugins, Design, Skills|
 | [Claude Rebuild](https://github.com/ashishachopra/Claude-Code-Rebuilt) ; [Claude Rebuild PYRUST](https://github.com/ashishachopra/Claude-Code-PYRUST) | Claude Source Code rebuilt into a runnable CLI & Python Porting|
+| [Claude FSI](https://github.com/ashishachopra/Claude-FSI) | Anthropic - Fin Services Solution |
 | [Nvidia Skills](https://github.com/ashishachopra/Nvidia-Skills) | AI agent skills by NVIDIA |
 | [Prompt Engineering](https://github.com/ashishachopra/Prompt_Engineering) | Tutorials and Implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies |
 | [LLM Benchmarks](https://github.com/ashishachopra/LLM-Perf-BenchMarks) | LLM Performance Benchmarking |
@@ -36,6 +37,7 @@
 | [SNOWFLAKE](https://github.com/ashishachopra/Gunner-SnowflakeML-Examples) | SnowflakeML-Examples |
 | [DATABRICKS](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
 | [TERADATA](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
+| [AML-FCrime-AI](https://github.com/ashishachopra/Gunner-AML-FCrime-AI) | AML compliance - AI/ML Solution with OpenAI integration |
 
 ---
 # 💡"Code is like humor. When you have to explain it, it’s bad."
