@@ -3,9 +3,9 @@
 ---
 
 # 🌟 About Me
-- 💻 Belief: **Brains Before Bots - ALWAYS**
-- 🎯 Goal for Life: **Dream it, build it, line by line, your own creation, one of a kind. 
-                      Every bug you fix, every goal you hit, Write your own code — you’re made for it!**
+- **Brains Before Bots - ALWAYS**
+- **Dream it, build it, line by line, your own creation, one of a kind. 
+  Every bug you fix, every goal you hit, Write your own code — you’re made for it!**
 ---
 
 # 📌 Featured Projects
@@ -16,6 +16,8 @@
 | [Databricks Bible](https://github.com/ashishachopra/TeradataBible) | Links to some great articles, guides and minds doing awesome work on Teradata |
 | [Teradata Bible](https://github.com/ashishachopra/Databricks---Bible) | Links to some great articles, guides and minds doing awesome work on Databricks |
 | [Prompt Engineering](https://github.com/ashishachopra/Prompt_Engineering) | Collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies|
+| [RAG](https://github.com/ashishachopra/AwesomeRAG) | Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI |
+| [Advanced RAG](https://github.com/ashishachopra/RAG_Techniques) | Advanced techniques for Retrieval-Augmented Generation (RAG) systems  |
 
 ---
 
