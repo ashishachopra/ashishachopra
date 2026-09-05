@@ -16,6 +16,9 @@
 | [Claude Rebuild](https://github.com/ashishachopra/Claude-Code-Rebuilt) ; [Claude Rebuild PYRUST](https://github.com/ashishachopra/Claude-Code-PYRUST) | Claude Source Code rebuilt into a runnable CLI & Python Porting|
 | [Nvidia Skills](https://github.com/ashishachopra/Nvidia-Skills) | AI agent skills by NVIDIA |
 | [Prompt Engineering](https://github.com/ashishachopra/Prompt_Engineering) | Tutorials and Implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies |
+| [LLM Benchmarks](https://github.com/ashishachopra/LLM-Perf-BenchMarks) | LLM Performance Benchmarking |
+| [Headroom](https://github.com/ashishachopra/Headroom-TokenReduction) ; [Onyx](https://github.com/ashishachopra/ONYX-OpenSourceAIPlatform) ; [MCP Servers](https://github.com/ashishachopra/MCP-Servers) ; [Web LLM](https://github.com/ashishachopra/WEB-LLM-InBrowserLLMInferEngine) | Headroom-LLM Token Reduction, ONYX-OpenSource AI Platform, MCP-Servers, WEB-LLM-InBrowser LLM Inference Engine |
+| [LLM Binaries](https://github.com/ashishachopra/MLC-LLM-Binary-LibS) ; [vLLM Recipes](https://github.com/ashishachopra/vLLM-Recipes) ; [AI Engineering](https://github.com/ashishachopra/AI-Engineering-Hub) | LLM Recipes, Binaries,  LLMs-RAGs-AIAgent apps |
 | [RAG](https://github.com/ashishachopra/AwesomeRAG) | Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI |
 | [Advanced RAG](https://github.com/ashishachopra/RAG_Techniques) | Advanced techniques for Retrieval-Augmented Generation (RAG) systems  |
 | [ML, Deep learning, NLP](https://github.com/ashishachopra/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 100+ AI Machine learning Deep learning Computer vision NLP Projects with code |
