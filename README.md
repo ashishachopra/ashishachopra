@@ -9,6 +9,8 @@
 | Project | Description |
 |---------|-------------|
 | [AI/ML, GenAI, Graph-Ontology, Modelling Concepts](https://github.com/ashishachopra/Concepts) | Basic Concepts AI/ML, GENAI, Graph-Ontology, Vectors, Models & Evaluations |
+| [GenAI Guides](https://github.com/ashishachopra/Awesome-GenAI-Guide) | A one stop repository for GENAI research, updates, notebooks and much more! |
+| [Agent Skills](https://github.com/ashishachopra/Awesome-Agent-Skills) | Agent skills from official community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |
 | [Knowledge Books](https://github.com/ashishachopra/Book-of-Knowledge) | Collection of manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | [Ontology Docs](https://github.com/ashishachopra/Ontology-Docs) | Ontology |
 | [Snowflake Bible](https://github.com/ashishachopra/SnowflakeBible) | Links to some great articles, guides and minds doing awesome work on Snowflake |
