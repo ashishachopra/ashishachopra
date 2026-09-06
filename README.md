@@ -1,6 +1,6 @@
 <div align="center">
 
- # ASHISH CHOPRA
+# ASHISH CHOPRA
 🚀 **Architect | Engineer | Open-Source Contributor**  
 
 <a href="https://linkedin.com/in/ashish-chopra-0405017402"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a> 
@@ -100,8 +100,8 @@
 | Project | Description |
 |---------|-------------|
 | [SF-ML](https://github.com/ashishachopra/Gunner-SnowflakeML-Examples) <br/> [SF-Kafka-SnowpipeStream](https://github.com/ashishachopra/SF-Kafka-SnowpipeStream) <br/> [SF-SnowpipeStream](https://github.com/ashishachopra/snowpipe-stream) <br/> [SF-SnowpipeStreamIceberg](https://github.com/ashishachopra/SF-Snowpipe-Iceberg) <br/> [SF-DocAI](https://github.com/ashishachopra/SF-DocAI) <br/> [SF-SnowDDL](https://github.com/ashishachopra/SnowDDL) <br/> [SF-StreamlitMCP](https://github.com/ashishachopra/streamlit_mcp_cortex) <br/> [SF-SnowConvert](https://github.com/ashishachopra/SF-SnowConvert) <br/> [SF-OnlineFS](https://github.com/ashishachopra/SF-OnlineFS) | SnowflakeML-Examples |
-| [DATABRICKS](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
-| [TERADATA](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
+| [Databricks](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
+| [Teradata](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
 | [AML-FCrime-AI](https://github.com/ashishachopra/Gunner-AML-FCrime-AI) | AML compliance - AI/ML Solution with OpenAI integration |
 | [ISO Parser-Java](https://github.com/ashishachopra/Gunner-java-iso20022-parser) | JAVA - parser for ISO 20022 messages |
 | [ISO Parser-Python](https://github.com/ashishachopra/Gunner-parse-pyiso20022) | PYTHON PYISO20022 - parser for ISO 20022 messages |
