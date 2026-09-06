@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logoColor=00D9FF" alt="Docker" />
 <img src="https://img.shields.io/badge/Podman-0D1117?style=flat-square&logoColor=00D9FF" alt="Podman" />
 <img src="https://img.shields.io/badge/Confluent-0D1117?style=flat-square&logoColor=00D9FF" alt="Confluent" />
+<img src="https://img.shields.io/badge/Websocket-0D1117?style=flat-square&logoColor=00D9FF" alt="Websocket" />
 <br/>
 <img src="https://img.shields.io/badge/Graph-0D1117?style=flat-square&logo=graph&logoColor=00D9FF" alt="Graph" />
 <img src="https://img.shields.io/badge/GraphRAG-0D1117?style=flat-square&logo=graphrag&logoColor=00D9FF" alt="GraphRAG" />
