@@ -5,15 +5,22 @@
 ![Alt Text](ASHISH.png).
 
 ---
-# 📌 Featured Projects
+# 📌 Study Material
 | Project | Description |
 |---------|-------------|
 | [AI/ML, GenAI, Graph-Ontology, Modelling Concepts](https://github.com/ashishachopra/Concepts) | Basic Concepts AI/ML, GENAI, Graph-Ontology, Vectors, Models & Evaluations |
+| [Knowledge Books](https://github.com/ashishachopra/Book-of-Knowledge) | Collection of manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [Ontology Docs](https://github.com/ashishachopra/Ontology-Docs) | Ontology |
 | [Snowflake Bible](https://github.com/ashishachopra/SnowflakeBible) | Links to some great articles, guides and minds doing awesome work on Snowflake |
 | [Databricks Bible](https://github.com/ashishachopra/TeradataBible) | Links to some great articles, guides and minds doing awesome work on Teradata |
 | [Teradata Bible](https://github.com/ashishachopra/Databricks---Bible) | Links to some great articles, guides and minds doing awesome work on Databricks |
+| [GraphDB BenchMarking](https://github.com/ashishachopra/GraphDB-Benchmarking) | GraphDB BenchMarking - Neo4j vs Amazon Neptune vs Titan vs TigerGraph vs JanusGraph vs Arangodb |
+
+---
+# 📌 Featured Projects
+| Project | Description |
+|---------|-------------|
 | [Python All Algos](https://github.com/ashishachopra/Python-AllAlgos) | All Algorithms implemented in Python |
-| [Knowledge Books](https://github.com/ashishachopra/Book-of-Knowledge) | Collection of manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | [Claude E2E](https://github.com/ashishachopra/Claude-Everything) ; [Claude Design](https://github.com/ashishachopra/Claude-Design) ; [Claude SDK & Plugin](https://github.com/ashishachopra/Claude-Mem) ; [Claude Skills](https://github.com/ashishachopra/Claude-CodeSkills) | Claude E2E - SDK, Plugins, Design, Skills|
 | [Claude Rebuild](https://github.com/ashishachopra/Claude-Code-Rebuilt) ; [Claude Rebuild PYRUST](https://github.com/ashishachopra/Claude-Code-PYRUST) | Claude Source Code rebuilt into a runnable CLI & Python Porting|
 | [Claude FSI](https://github.com/ashishachopra/Claude-FSI) | Anthropic - Fin Services Solution |
@@ -27,11 +34,10 @@
 | [Advanced RAG](https://github.com/ashishachopra/RAG_Techniques) | Advanced techniques for Retrieval-Augmented Generation (RAG) systems  |
 | [ML, Deep learning, NLP](https://github.com/ashishachopra/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 100+ AI Machine learning Deep learning Computer vision NLP Projects with code |
 | [ML Projects](https://github.com/ashishachopra/MachineLearningProjects) | Machine Learning Projects |
-| [GraphDB BenchMarking](https://github.com/ashishachopra/GraphDB-Benchmarking) | GraphDB BenchMarking - Neo4j vs Amazon Neptune vs Titan vs TigerGraph vs JanusGraph vs Arangodb |
 | [Neo4j Skills](https://github.com/ashishachopra/Neo4j-Skills) ; [Neo4j GDS Agents](https://github.com/ashishachopra/Neo4j-GDS-Agent) | Neo4J Projects |
 | [TigerGraph E2E](https://github.com/ashishachopra/TigerGraph-E2E) ; [TigerGraph GSQL](https://github.com/ashishachopra/TigerGraph-GSQL-Algo) ; [TigerGraph ML](https://github.com/ashishachopra/TigerGraph-ML) ; [TigerGraph GraphRAG](https://github.com/ashishachopra/TigerGraph-GraphRag) ; [TigerGraph FraudDetection](https://github.com/ashishachopra/TigerGraph-FraudDetection) | Tiger Graph Projects |
 | [GraphQL](https://github.com/ashishachopra/GraphQL) | Awesome list of GraphQL |
-| [Ontology Docs](https://github.com/ashishachopra/Ontology-Docs) ; [Ontology E2E](https://github.com/ashishachopra/Ontology-E2E) ; [Ontology RAG](https://github.com/ashishachopra/Ontology-RAG) ; [CovertToOntology](https://github.com/ashishachopra/ConvertAnything2Ontology)| Ontology |
+| [Ontology E2E](https://github.com/ashishachopra/Ontology-E2E) ; [Ontology RAG](https://github.com/ashishachopra/Ontology-RAG) ; [CovertToOntology](https://github.com/ashishachopra/ConvertAnything2Ontology)| Ontology |
 | [Kimi Moonshots most powerful model](https://github.com/ashishachopra/kimi-k2.5) ; [Molbot OpenClaw Personal AIAssistant ](https://github.com/ashishachopra/molbot-OpenClaw) ; [Wraps Oz AIAgent Workspace](https://github.com/ashishachopra/oz-workspace) ; [MicroFish SwarmIntelligenceEngine](https://github.com/ashishachopra/MiroFish)| Random Others - Platforms, Models |
 
 ---
