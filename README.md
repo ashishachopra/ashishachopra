@@ -3,25 +3,26 @@
  # ASHISH CHOPRA
 🚀 **Architect | Engineer | Open-Source Contributor**  
 
-<br/> 
 <a href="https://linkedin.com/in/ashish-chopra-0405017402"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
 <a href="mailto:ashishachopra@yahoo.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
 
 ---
-![Alt Text](ASHISH.png).
-
----
 <br/><br/>
-
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00D9FF" alt="AWS" />
+<img src="https://img.shields.io/badge/AZURE-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9FF" alt="AZURE" />
+<img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9FF" alt="GCP" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
+<img src="https://img.shields.io/badge/Podman-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Podman" />
+<img src="https://img.shields.io/badge/Confluent-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Confluent" />
+<br/>
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" alt="Python" />
 <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="PyTorch" />
 <img src="https://img.shields.io/badge/R-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="R" />
-<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=00D9FF" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Spark-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="Spark" />
+<img src="https://img.shields.io/badge/Scala-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="Scala" />
 <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00D9FF" alt="Go" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00D9FF" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00D9FF" alt="Java" />
-<img src="https://img.shields.io/badge/Spark-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="Spark" />
-<img src="https://img.shields.io/badge/Scala-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="Scala" />
 <br/>
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D9FF" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00D9FF" alt="Next.js" />
@@ -29,19 +30,19 @@
 <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=00D9FF" alt="Flutter" />
 <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=springboot&logoColor=00D9FF" alt="Spring Boot" />
-
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Oracle-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="Oracle" />
 <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00D9FF" alt="Redis" />
 <img src="https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Snowflake" />
 <img src="https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Databricks" />
 <img src="https://img.shields.io/badge/Teradata-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Teradata" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00D9FF" alt="AWS" />
-<img src="https://img.shields.io/badge/AZURE-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9FF" alt="AZURE" />
-<img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9FF" alt="GCP" />
+<br/>
 
-<br/><br/>
+<br/>
+
+---
+![Alt Text](ASHISH.png).
 
 ---
 # 📌 Study Material
