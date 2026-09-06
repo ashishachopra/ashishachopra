@@ -1,6 +1,6 @@
-# 👋 Hi  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chopra-0405017402)
+# 👋 Hi 
 🚀 **Architect | Engineer | Open-Source Contributor**  
-
+Connect - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chopra-0405017402)
 ---
 ![Alt Text](ASHISH.png).
 
