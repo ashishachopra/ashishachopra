@@ -3,17 +3,24 @@
  # ASHISH CHOPRA
 🚀 **Architect | Engineer | Open-Source Contributor**  
 
-<a href="https://linkedin.com/in/ashish-chopra-0405017402"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
-<a href="mailto:ashishachopra@yahoo.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
+<a href="https://linkedin.com/in/ashish-chopra-0405017402"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a> 
+<a href="mailto:ashishachopra@yahoo.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=yahoo&logoColor=00D9FF" alt="Email" /></a>
 
 ---
-<br/><br/>
+<br/>
 <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00D9FF" alt="AWS" />
 <img src="https://img.shields.io/badge/AZURE-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9FF" alt="AZURE" />
 <img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9FF" alt="GCP" />
+<br/>
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
 <img src="https://img.shields.io/badge/Podman-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Podman" />
 <img src="https://img.shields.io/badge/Confluent-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Confluent" />
+<br/>
+<img src="https://img.shields.io/badge/Graph-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Graph" />
+<img src="https://img.shields.io/badge/GraphRAG-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="GraphRAG" />
+<img src="https://img.shields.io/badge/Vector-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Vector" />
+<img src="https://img.shields.io/badge/LLM-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="LLM" />
+<img src="https://img.shields.io/badge/Agents-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Agents" />
 <br/>
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" alt="Python" />
 <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="PyTorch" />
@@ -29,16 +36,15 @@
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00D9FF" alt="Node.js" />
 <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=00D9FF" alt="Flutter" />
 <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" alt="FastAPI" />
+<img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" alt="GraphQL" />
 <img src="https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=springboot&logoColor=00D9FF" alt="Spring Boot" />
 <br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Oracle-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="Oracle" />
-<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00D9FF" alt="Redis" />
 <img src="https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Snowflake" />
 <img src="https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Databricks" />
 <img src="https://img.shields.io/badge/Teradata-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Teradata" />
-<br/>
-
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Oracle-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="Oracle" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00D9FF" alt="Redis" />
 <br/>
 
 ---
