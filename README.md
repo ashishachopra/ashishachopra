@@ -43,7 +43,7 @@
 | [Kimi Moonshots most powerful model](https://github.com/ashishachopra/kimi-k2.5) ; [Molbot OpenClaw Personal AIAssistant ](https://github.com/ashishachopra/molbot-OpenClaw) ; [Wraps Oz AIAgent Workspace](https://github.com/ashishachopra/oz-workspace) ; [MicroFish SwarmIntelligenceEngine](https://github.com/ashishachopra/MiroFish)| Random Others - Platforms, Models |
 
 ---
-# 📌 Other Projects
+# 📌 JFF
 | Project | Description |
 |---------|-------------|
 | [SNOWFLAKE](https://github.com/ashishachopra/Gunner-SnowflakeML-Examples) ; [SF-Kafka-SnowpipeStream](https://github.com/ashishachopra/SF-Kafka-SnowpipeStream) ; [SF-SnowpipeStream](https://github.com/ashishachopra/snowpipe-stream) ; [SF-SnowpipeStreamIceberg](https://github.com/ashishachopra/SF-Snowpipe-Iceberg) ; [SF-DocAI](https://github.com/ashishachopra/SF-DocAI) ; [SF-SnowDDL](https://github.com/ashishachopra/SnowDDL) ; [SF-StreamlitMCP](https://github.com/ashishachopra/streamlit_mcp_cortex) ; [SF-SnowConvert](https://github.com/ashishachopra/SF-SnowConvert) ; [SF-OnlineFS](https://github.com/ashishachopra/SF-OnlineFS) | SnowflakeML-Examples |
