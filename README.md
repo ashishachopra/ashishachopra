@@ -22,6 +22,13 @@
 <img src="https://img.shields.io/badge/LLM-0D1117?style=flat-square&logo=llm&logoColor=00D9FF" alt="LLM" />
 <img src="https://img.shields.io/badge/Agents-0D1117?style=flat-square&logo=agents&logoColor=00D9FF" alt="Agents" />
 <br/>
+<img src="https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=00D9FF" alt="Snowflake" />
+<img src="https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=databricks&logoColor=00D9FF" alt="Databricks" />
+<img src="https://img.shields.io/badge/Teradata-0D1117?style=flat-square&logo=teradata&logoColor=00D9FF" alt="Teradata" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Oracle-0D1117?style=flat-square&logo=oracle&logoColor=00D9FF" alt="Oracle" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00D9FF" alt="Redis" />
+<br/>
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" alt="Python" />
 <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="PyTorch" />
 <img src="https://img.shields.io/badge/R-0D1117?style=flat-square&logo=r&logoColor=00D9FF" alt="R" />
@@ -38,13 +45,6 @@
 <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" alt="FastAPI" />
 <img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=00D9FF" alt="GraphQL" />
 <img src="https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=springboot&logoColor=00D9FF" alt="Spring Boot" />
-<br/>
-<img src="https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=00D9FF" alt="Snowflake" />
-<img src="https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=databricks&logoColor=00D9FF" alt="Databricks" />
-<img src="https://img.shields.io/badge/Teradata-0D1117?style=flat-square&logo=teradata&logoColor=00D9FF" alt="Teradata" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Oracle-0D1117?style=flat-square&logo=oracle&logoColor=00D9FF" alt="Oracle" />
-<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00D9FF" alt="Redis" />
 <br/>
 
 ---
