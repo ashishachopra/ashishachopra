@@ -20,8 +20,12 @@
 <img src="https://img.shields.io/badge/Graph-0D1117?style=flat-square&logo=graph&logoColor=00D9FF" alt="Graph" />
 <img src="https://img.shields.io/badge/GraphRAG-0D1117?style=flat-square&logo=graphrag&logoColor=00D9FF" alt="GraphRAG" />
 <img src="https://img.shields.io/badge/Vector-0D1117?style=flat-square&logo=vector&logoColor=00D9FF" alt="Vector" />
-<img src="https://img.shields.io/badge/LLM-0D1117?style=flat-square&logo=llm&logoColor=00D9FF" alt="LLM" />
-<img src="https://img.shields.io/badge/Agents-0D1117?style=flat-square&logo=agents&logoColor=00D9FF" alt="Agents" />
+<br/>
+<img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=ai&logoColor=00D9FF" alt="AI" />
+<img src="https://img.shields.io/badge/ML-0D1117?style=flat-square&logo=ml&logoColor=00D9FF" alt="ML" />
+<img src="https://img.shields.io/badge/GENAI-0D1117?style=flat-square&logo=genai&logoColor=00D9FF" alt="GENAI" />
+<img src="https://img.shields.io/badge/DEEPLEARNING-0D1117?style=flat-square&logo=deeplearning&logoColor=00D9FF" alt="DEEPLEARNING" />
+<img src="https://img.shields.io/badge/AGENTS-0D1117?style=flat-square&logo=agents&logoColor=00D9FF" alt="AGENTS" />
 <br/>
 <img src="https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=00D9FF" alt="Snowflake" />
 <img src="https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=databricks&logoColor=00D9FF" alt="Databricks" />
