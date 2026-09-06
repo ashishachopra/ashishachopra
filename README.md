@@ -54,7 +54,7 @@
 # 📌 Study Material
 | Project | Description |
 |---------|-------------|
-| [AI/ML, GenAI, Graph-Ontology, Modelling Concepts](https://github.com/ashishachopra/Concepts) | Basic Concepts AI/ML, GENAI, Graph-Ontology, Vectors, Models & Evaluations |
+| [Concepts](https://github.com/ashishachopra/Concepts) | Basic Concepts AI/ML, GENAI, Graph-Ontology, Vectors, Models & Evaluations |
 | [GenAI Guides](https://github.com/ashishachopra/Awesome-GenAI-Guide) | A one stop repository for GENAI research, updates, notebooks and much more! |
 | [Agent Skills](https://github.com/ashishachopra/Awesome-Agent-Skills) | Agent skills from official community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |
 | [Knowledge Books](https://github.com/ashishachopra/Book-of-Knowledge) | Collection of manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
@@ -88,13 +88,13 @@
 | [TigerGraph E2E](https://github.com/ashishachopra/TigerGraph-E2E) <br/> [TigerGraph GSQL](https://github.com/ashishachopra/TigerGraph-GSQL-Algo) <br/> [TigerGraph ML](https://github.com/ashishachopra/TigerGraph-ML) <br/> [TigerGraph GraphRAG](https://github.com/ashishachopra/TigerGraph-GraphRag) <br/> [TigerGraph FraudDetection](https://github.com/ashishachopra/TigerGraph-FraudDetection) | Tiger Graph Projects |
 | [GraphQL](https://github.com/ashishachopra/GraphQL) | Awesome list of GraphQL |
 | [Ontology E2E](https://github.com/ashishachopra/Ontology-E2E) <br/> [Ontology RAG](https://github.com/ashishachopra/Ontology-RAG) <br/> [CovertToOntology](https://github.com/ashishachopra/ConvertAnything2Ontology)| Ontology |
-| [Kimi Moonshots most powerful model](https://github.com/ashishachopra/kimi-k2.5) <br/> [Molbot OpenClaw Personal AIAssistant ](https://github.com/ashishachopra/molbot-OpenClaw) <br/> [Wraps Oz AIAgent Workspace](https://github.com/ashishachopra/oz-workspace) <br/> [MicroFish SwarmIntelligenceEngine](https://github.com/ashishachopra/MiroFish)| Random Others - Platforms, Models |
+| [Kimi Moonshots model](https://github.com/ashishachopra/kimi-k2.5) <br/> [Molbot OpenClaw Personal AIAssistant ](https://github.com/ashishachopra/molbot-OpenClaw) <br/> [Wraps Oz AIAgent Workspace](https://github.com/ashishachopra/oz-workspace) <br/> [MicroFish SwarmIntelligenceEngine](https://github.com/ashishachopra/MiroFish)| Random Others - Platforms, Models |
 
 ---
 # 📌 JFF
 | Project | Description |
 |---------|-------------|
-| [SNOWFLAKE](https://github.com/ashishachopra/Gunner-SnowflakeML-Examples) <br/> [SF-Kafka-SnowpipeStream](https://github.com/ashishachopra/SF-Kafka-SnowpipeStream) <br/> [SF-SnowpipeStream](https://github.com/ashishachopra/snowpipe-stream) <br/> [SF-SnowpipeStreamIceberg](https://github.com/ashishachopra/SF-Snowpipe-Iceberg) <br/> [SF-DocAI](https://github.com/ashishachopra/SF-DocAI) <br/> [SF-SnowDDL](https://github.com/ashishachopra/SnowDDL) <br/> [SF-StreamlitMCP](https://github.com/ashishachopra/streamlit_mcp_cortex) <br/> [SF-SnowConvert](https://github.com/ashishachopra/SF-SnowConvert) <br/> [SF-OnlineFS](https://github.com/ashishachopra/SF-OnlineFS) | SnowflakeML-Examples |
+| [SF-ML](https://github.com/ashishachopra/Gunner-SnowflakeML-Examples) <br/> [SF-Kafka-SnowpipeStream](https://github.com/ashishachopra/SF-Kafka-SnowpipeStream) <br/> [SF-SnowpipeStream](https://github.com/ashishachopra/snowpipe-stream) <br/> [SF-SnowpipeStreamIceberg](https://github.com/ashishachopra/SF-Snowpipe-Iceberg) <br/> [SF-DocAI](https://github.com/ashishachopra/SF-DocAI) <br/> [SF-SnowDDL](https://github.com/ashishachopra/SnowDDL) <br/> [SF-StreamlitMCP](https://github.com/ashishachopra/streamlit_mcp_cortex) <br/> [SF-SnowConvert](https://github.com/ashishachopra/SF-SnowConvert) <br/> [SF-OnlineFS](https://github.com/ashishachopra/SF-OnlineFS) | SnowflakeML-Examples |
 | [DATABRICKS](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
 | [TERADATA](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
 | [AML-FCrime-AI](https://github.com/ashishachopra/Gunner-AML-FCrime-AI) | AML compliance - AI/ML Solution with OpenAI integration |
