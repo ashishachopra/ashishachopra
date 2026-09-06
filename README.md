@@ -8,13 +8,13 @@
 
 ---
 <br/>
-<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00D9FF" alt="AWS" />
-<img src="https://img.shields.io/badge/AZURE-0D1117?style=flat-square&logo=azure&logoColor=00D9FF" alt="AZURE" />
-<img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9FF" alt="GCP" />
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logoColor=00D9FF" alt="AWS" />
+<img src="https://img.shields.io/badge/AZURE-0D1117?style=flat-square&logoColor=00D9FF" alt="AZURE" />
+<img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logoColor=00D9FF" alt="GCP" />
 <br/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
-<img src="https://img.shields.io/badge/Podman-0D1117?style=flat-square&logo=podman&logoColor=00D9FF" alt="Podman" />
-<img src="https://img.shields.io/badge/Confluent-0D1117?style=flat-square&logo=confluent&logoColor=00D9FF" alt="Confluent" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logoColor=00D9FF" alt="Docker" />
+<img src="https://img.shields.io/badge/Podman-0D1117?style=flat-square&logoColor=00D9FF" alt="Podman" />
+<img src="https://img.shields.io/badge/Confluent-0D1117?style=flat-square&logoColor=00D9FF" alt="Confluent" />
 <br/>
 <img src="https://img.shields.io/badge/Graph-0D1117?style=flat-square&logo=graph&logoColor=00D9FF" alt="Graph" />
 <img src="https://img.shields.io/badge/GraphRAG-0D1117?style=flat-square&logo=graphrag&logoColor=00D9FF" alt="GraphRAG" />
