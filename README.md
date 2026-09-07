@@ -94,7 +94,7 @@
 | [TigerGraph E2E](https://github.com/ashishachopra/TigerGraph-E2E), <br/> [TigerGraph GSQL](https://github.com/ashishachopra/TigerGraph-GSQL-Algo), <br/> [TigerGraph ML](https://github.com/ashishachopra/TigerGraph-ML), <br/> [TigerGraph GraphRAG](https://github.com/ashishachopra/TigerGraph-GraphRag), <br/> [TigerGraph FraudDetection](https://github.com/ashishachopra/TigerGraph-FraudDetection) | Tiger Graph Projects |
 | [GraphQL](https://github.com/ashishachopra/GraphQL) | Awesome list of GraphQL |
 | [Ontology E2E](https://github.com/ashishachopra/Ontology-E2E), <br/> [Ontology RAG](https://github.com/ashishachopra/Ontology-RAG), <br/> [CovertToOntology](https://github.com/ashishachopra/ConvertAnything2Ontology)| Ontology |
-| [Kimi Moonshots model](https://github.com/ashishachopra/kimi-k2.5), <br/> [Molbot OpenClaw Personal AIAssistant ](https://github.com/ashishachopra/molbot-OpenClaw), <br/> [Wraps Oz AIAgent Workspace](https://github.com/ashishachopra/oz-workspace), <br/> [MicroFish SwarmIntelligenceEngine](https://github.com/ashishachopra/MiroFish)| Random Others - Platforms, Models |
+| [Kimi Moonshots model](https://github.com/ashishachopra/kimi-k2.5), <br/> [Molbot OpenClaw AIAssistant](https://github.com/ashishachopra/molbot-OpenClaw), <br/> [Wraps Oz AIAgent Workspace](https://github.com/ashishachopra/oz-workspace), <br/> [MicroFish SwarmIntelligenceEngine](https://github.com/ashishachopra/MiroFish)| Random Others - Platforms, Models |
 
 ---
 # 📌 JFF
