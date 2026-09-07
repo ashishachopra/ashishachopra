@@ -7,7 +7,7 @@
 <a href="mailto:ashishachopra@yahoo.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=yahoo&logoColor=00D9FF" alt="Email" /></a>
 
 ---
-# Technology Covergae
+# Technology Coverage
 <br/>
 <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logoColor=00D9FF" alt="AWS" />
 <img src="https://img.shields.io/badge/AZURE-0D1117?style=flat-square&logoColor=00D9FF" alt="AZURE" />
