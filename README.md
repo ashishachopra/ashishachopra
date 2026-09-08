@@ -12,21 +12,19 @@
 <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logoColor=00D9FF" alt="AWS" />
 <img src="https://img.shields.io/badge/AZURE-0D1117?style=flat-square&logoColor=00D9FF" alt="AZURE" />
 <img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logoColor=00D9FF" alt="GCP" />
-<br/>
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logoColor=00D9FF" alt="Docker" />
 <img src="https://img.shields.io/badge/Podman-0D1117?style=flat-square&logoColor=00D9FF" alt="Podman" />
 <img src="https://img.shields.io/badge/Confluent-0D1117?style=flat-square&logoColor=00D9FF" alt="Confluent" />
 <img src="https://img.shields.io/badge/Websocket-0D1117?style=flat-square&logoColor=00D9FF" alt="Websocket" />
-<br/>
-<img src="https://img.shields.io/badge/Graph-0D1117?style=flat-square&logo=graph&logoColor=00D9FF" alt="Graph" />
-<img src="https://img.shields.io/badge/GraphRAG-0D1117?style=flat-square&logo=graphrag&logoColor=00D9FF" alt="GraphRAG" />
-<img src="https://img.shields.io/badge/Vector-0D1117?style=flat-square&logo=vector&logoColor=00D9FF" alt="Vector" />
 <br/>
 <img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=ai&logoColor=00D9FF" alt="AI" />
 <img src="https://img.shields.io/badge/ML-0D1117?style=flat-square&logo=ml&logoColor=00D9FF" alt="ML" />
 <img src="https://img.shields.io/badge/GenAI-0D1117?style=flat-square&logo=genai&logoColor=00D9FF" alt="GenAI" />
 <img src="https://img.shields.io/badge/DeepLearning-0D1117?style=flat-square&logo=deeplearning&logoColor=00D9FF" alt="DeepLearning" />
 <img src="https://img.shields.io/badge/Agents-0D1117?style=flat-square&logo=agents&logoColor=00D9FF" alt="Agents" />
+<img src="https://img.shields.io/badge/Graph-0D1117?style=flat-square&logo=graph&logoColor=00D9FF" alt="Graph" />
+<img src="https://img.shields.io/badge/GraphRAG-0D1117?style=flat-square&logo=graphrag&logoColor=00D9FF" alt="GraphRAG" />
+<img src="https://img.shields.io/badge/Vector-0D1117?style=flat-square&logo=vector&logoColor=00D9FF" alt="Vector" />
 <br/>
 <img src="https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=00D9FF" alt="Snowflake" />
 <img src="https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=databricks&logoColor=00D9FF" alt="Databricks" />
