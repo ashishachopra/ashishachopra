@@ -58,6 +58,7 @@
 
 <br/>
 <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
+
 ---
 # 📌 Study Material
 | Project | Description |
