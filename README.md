@@ -2,10 +2,10 @@
 
 # ASHISH CHOPRA
 🚀 **Architect | Engineer | Open-Source Contributor**  
-
+---
 <a href="https://linkedin.com/in/ashish-chopra-0405017402"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a> 
 <a href="mailto:ashishachopra@yahoo.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=yahoo&logoColor=00D9FF" alt="Email" /></a>
-
+![Alt Text](ASHISH.png).
 ---
 # Technology Coverage
 <br/>
@@ -57,11 +57,7 @@
 <img src="https://streak-stats.demolab.com?user=ashishachopra&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
 
 <br/>
-<img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/output/contribution-grid.svg" alt="Contribution grid" width="100%" />   
-
----
-![Alt Text](ASHISH.png).
-
+<img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 ---
 # 📌 Study Material
 | Project | Description |
