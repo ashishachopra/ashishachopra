@@ -81,6 +81,7 @@
 | Project | Description |
 |---------|-------------|
 | [Python All Algos](https://github.com/ashishachopra/Python-AllAlgos) | All Algorithms implemented in Python |
+| [Agent Sheild](https://github.com/ashishachopra/AgentSheild) | AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions |
 | [Claude E2E](https://github.com/ashishachopra/Claude-Everything), <br/> [Claude Design](https://github.com/ashishachopra/Claude-Design), <br/> [Claude SDK & Plugin](https://github.com/ashishachopra/Claude-Mem), <br/> [Claude Skills](https://github.com/ashishachopra/Claude-CodeSkills) | Claude E2E - SDK, Plugins, Design, Skills|
 | [Claude Rebuild](https://github.com/ashishachopra/Claude-Code-Rebuilt), <br/> [Claude Rebuild PYRUST](https://github.com/ashishachopra/Claude-Code-PYRUST) | Claude Source Code rebuilt into a runnable CLI & Python Porting|
 | [Claude FSI](https://github.com/ashishachopra/Claude-FSI) | Anthropic - Fin Services Solution |
