@@ -103,7 +103,7 @@
 # 📌 JFF
 | Project | Description |
 |---------|-------------|
-| [SF](https://github.com/ashishachopra/Snowflake-Tests), <br/> [SF-Kafka-SnowpipeStream](https://github.com/ashishachopra/SF-Kafka-SnowpipeStream), <br/> [SF-SnowpipeStream](https://github.com/ashishachopra/snowpipe-stream), <br/> [SF-SnowpipeStreamIceberg](https://github.com/ashishachopra/SF-Snowpipe-Iceberg), <br/> [SF-DocAI](https://github.com/ashishachopra/SF-DocAI), <br/> [SF-SnowDDL](https://github.com/ashishachopra/SnowDDL), <br/> [SF-StreamlitMCP](https://github.com/ashishachopra/streamlit_mcp_cortex), <br/> [SF-SnowConvert](https://github.com/ashishachopra/SF-SnowConvert), <br/> [SF-OnlineFS](https://github.com/ashishachopra/SF-OnlineFS) | SnowflakeML-Examples |
+| [SF](https://github.com/ashishachopra/Snowflake-Tests) | SnowflakeML-Examples |
 | [Databricks](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
 | [Teradata](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
 | [AML-FCrime-AI](https://github.com/ashishachopra/Gunner-AML-FCrime-AI) | AML compliance - AI/ML Solution with OpenAI integration |
