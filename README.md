@@ -102,6 +102,7 @@
 | [GraphQL](https://github.com/ashishachopra/GraphQL) | Awesome list of GraphQL |
 | [Ontology E2E](https://github.com/ashishachopra/Ontology-E2E), <br/> [Ontology RAG](https://github.com/ashishachopra/Ontology-RAG), <br/> [CovertToOntology](https://github.com/ashishachopra/ConvertAnything2Ontology)| Ontology |
 | [Kimi Moonshots model](https://github.com/ashishachopra/kimi-k2.5), <br/> [Molbot OpenClaw AIAssistant](https://github.com/ashishachopra/molbot-OpenClaw), <br/> [Wraps Oz AIAgent Workspace](https://github.com/ashishachopra/oz-workspace), <br/> [MicroFish SwarmIntelligenceEngine](https://github.com/ashishachopra/MiroFish)| Random Others - Platforms, Models |
+| [Agentic OSINT](https://github.com/ashishachopra/JARVIS) | A real-time agentic intelligence-gathering platform - autonomous web scraping & OSINT |
 
 ---
 # 📌 JFF
