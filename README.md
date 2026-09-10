@@ -1,8 +1,8 @@
 <div align="center">
 
-# ASHISH CHOPRA <a href="https://linkedin.com/in/ashish-chopra-0405017402"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>  <a href="mailto:ashishachopra@yahoo.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=yahoo&logoColor=00D9FF" alt="Email" /></a>
+# 🚀 ASHISH CHOPRA <a href="https://linkedin.com/in/ashish-chopra-0405017402"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>  <a href="mailto:ashishachopra@yahoo.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=yahoo&logoColor=00D9FF" alt="Email" /></a>
 
-🚀 **Architect | Engineer | Open-Source Contributor**  
+**Architect | Engineer | Open-Source Contributor**  
 <br/>
 ---
 ![Alt Text](ASHISH.png).
