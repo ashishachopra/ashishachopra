@@ -77,7 +77,7 @@
 |---------|-------------|
 | [Python All Algos](https://github.com/ashishachopra/Python-AllAlgos) | All Algorithms implemented in Python |
 | [Agent Sheild](https://github.com/ashishachopra/AgentSheild) | AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions |
-| [ppPyRIT](https://github.com/ashishachopra/PyRIT) | Python Risk Identification Tool for generative AI (PyRIT) - open source framework built to identify risks in GenAI systems |
+| [PyRIT](https://github.com/ashishachopra/PyRIT) | Python Risk Identification Tool for generative AI (PyRIT) - open source framework built to identify risks in GenAI systems |
 | [Strix](https://github.com/ashishachopra/Pentest-AI-strix) | Open-source AI penetration testing tool to find and fix vulnerabilities |
 | [Claude E2E](https://github.com/ashishachopra/Claude-Everything), <br/> [Claude Design](https://github.com/ashishachopra/Claude-Design), <br/> [Claude SDK & Plugin](https://github.com/ashishachopra/Claude-Mem), <br/> [Claude Skills](https://github.com/ashishachopra/Claude-CodeSkills) | Claude E2E - SDK, Plugins, Design, Skills|
 | [Claude Rebuild](https://github.com/ashishachopra/Claude-Code-Rebuilt), <br/> [Claude Rebuild PYRUST](https://github.com/ashishachopra/Claude-Code-PYRUST) | Claude Source Code rebuilt into a runnable CLI & Python Porting|
