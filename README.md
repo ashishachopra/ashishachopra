@@ -7,7 +7,7 @@
 ---
 ![Alt Text](ASHISH.png).
 ---
-# Technology Coverage
+# Tech Coverage
 <br/>
 <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logoColor=00D9FF" alt="AWS" />
 <img src="https://img.shields.io/badge/AZURE-0D1117?style=flat-square&logoColor=00D9FF" alt="AZURE" />
@@ -51,7 +51,7 @@
 <br/>
 
 ---
-# 📌 Contributions
+# Contributions
 <img src="https://streak-stats.demolab.com?user=ashishachopra&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
 
 <br/>
