@@ -58,7 +58,7 @@
 <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 
 ---
-# 📌 Study Material
+# 📌 Concepts
 | Project | Description |
 |---------|-------------|
 | [Concepts](https://github.com/ashishachopra/Concepts) | Basic Concepts AI/ML, GENAI, Graph-Ontology, Vectors, Models & Evaluations |
@@ -72,7 +72,7 @@
 | [GraphDB BenchMarking](https://github.com/ashishachopra/GraphDB-Benchmarking) | GraphDB BenchMarking - Neo4j vs Amazon Neptune vs Titan vs TigerGraph vs JanusGraph vs Arangodb |
 
 ---
-# 📌 Featured Projects
+# 📌 Projects
 | Project | Description |
 |---------|-------------|
 | [Python All Algos](https://github.com/ashishachopra/Python-AllAlgos) | All Algorithms implemented in Python |
