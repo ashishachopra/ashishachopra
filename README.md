@@ -59,10 +59,15 @@
 
 ---
 # Contributions
-<img src="https://streak-stats.demolab.com?user=ashishachopra&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
 
 <br/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishachopra&theme=cerulean" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishachopra&theme=cerulean" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishachopra&theme=cerulean" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishachopra&theme=cerulean&utcOffset=-6" />
+<br/>
 <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
+<br/>
 
 ---
 # 📌 Concepts
