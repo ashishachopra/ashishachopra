@@ -14,7 +14,7 @@
 ![Alt Text](ASHISH.png).
 ---
 
-# Tech Coverage
+# 💻 Tech Coverage
 <br/>
 <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logoColor=00D9FF" alt="AWS" />
 <img src="https://img.shields.io/badge/AZURE-0D1117?style=flat-square&logoColor=00D9FF" alt="AZURE" />
@@ -58,7 +58,7 @@
 <br/>
 
 ---
-# Contributions
+# 📊 Contributions
 
 <br/>
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishachopra&theme=cerulean" />
@@ -70,7 +70,7 @@
 <br/>
 
 ---
-# 📌 Concepts
+# 🚀 Concepts
 | Project | Description |
 |---------|-------------|
 | [Concepts](https://github.com/ashishachopra/Concepts) | Basic Concepts AI/ML, GENAI, Graph-Ontology, Vectors, Models & Evaluations |
@@ -84,7 +84,7 @@
 | [GraphDB BenchMarking](https://github.com/ashishachopra/GraphDB-Benchmarking) | GraphDB BenchMarking - Neo4j vs Amazon Neptune vs Titan vs TigerGraph vs JanusGraph vs Arangodb |
 
 ---
-# 📌 Working Projects
+# 🔧 Working Projects
 | Project | Description |
 |---------|-------------|
 | [Python All Algos](https://github.com/ashishachopra/Python-AllAlgos) | All Algorithms implemented in Python |
