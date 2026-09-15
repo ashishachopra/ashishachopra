@@ -79,7 +79,7 @@
 | [GraphDB BenchMarking](https://github.com/ashishachopra/GraphDB-Benchmarking) | GraphDB BenchMarking - Neo4j vs Amazon Neptune vs Titan vs TigerGraph vs JanusGraph vs Arangodb |
 
 ---
-# 📌 Projects
+# 📌 Working Projects
 | Project | Description |
 |---------|-------------|
 | [Python All Algos](https://github.com/ashishachopra/Python-AllAlgos) | All Algorithms implemented in Python |
