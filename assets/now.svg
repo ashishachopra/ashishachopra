@@ -10,8 +10,8 @@
   <rect x="0" y="43" width="720" height="1" fill="#21262d"/>
   <text x="14" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" fill="#00D9FF" opacity="0.55">&gt;</text>
   <text x="32" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#00D9FF">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.24;0.33;1" dur="3s" repeatCount="indefinite"/>
-    Code is where the heart is.
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.24;0.33;1" dur="5s" repeatCount="indefinite"/>
+    CODE IS WHERE THE HEART IS - USE BRAINS BEFORE BOTS.
   </text>
   <rect x="692" y="15" width="8" height="16" fill="#00D9FF" rx="1">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1s" repeatCount="indefinite"/>
