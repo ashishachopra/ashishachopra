@@ -4,15 +4,15 @@
 # Architect | Engineer | Open-Source Contributor
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/main/assets/header.svg" alt="Gunner" width="880"/>
+  <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/main/assets/header.svg" alt="Gunner" width="750"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/main/assets/now.svg" alt="now" width="720"/>
+  <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/main/assets/now.svg" alt="now" width="750"/>
 </p> 
 
----
-![Alt Text](ASHISH.png).
----
+<td width="50%" align="center">
+<img src="ASHISH.png" width="750" height="350"/>
+</td>
 
 # 💻 Tech Coverage
 <br/>
@@ -66,8 +66,7 @@
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishachopra&theme=cerulean" />
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishachopra&theme=cerulean&utcOffset=-6" />
 <br/>
-<img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
-<br/>
+
 <p align="center">
   <img src="https://github.com/ashishachopra/ashishachopra/blob/output/pacman-contribution-graph-dark.svg" />
 </p>
