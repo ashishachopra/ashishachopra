@@ -63,8 +63,9 @@
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishachopra&theme=cerulean&utcOffset=-6" />
 <br/>
 
+<br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/main/assets/pacman-contribution-graph-dark.svg" alt="now" width="800"/>
+  <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/main/assets/pacman-contribution-graph-dark.svg" alt="now" width="700"/>
 </p>
 
 ---
