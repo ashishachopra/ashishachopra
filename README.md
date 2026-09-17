@@ -10,10 +10,6 @@
   <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/main/assets/now.svg" alt="now" width="750"/>
 </p> 
 
-<td width="50%" align="center">
-<img src="ASHISH.png" width="750" height="350"/>
-</td>
-
 # 💻 Tech Coverage
 <br/>
 <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logoColor=00D9FF" alt="AWS" />
