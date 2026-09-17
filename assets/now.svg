@@ -18,8 +18,8 @@
     Programming without tea is like a computer without a CPU.
   </text>
   <text x="32" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#00D9FF">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.67;0.90;1" dur="12s" repeatCount="indefinite"/>
-    Git commits are the best love letters to the repository.
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.24;0.33;1" dur="12s" repeatCount="indefinite"/>
+    When in doubt reboot it out.
   </text>
   <rect x="692" y="15" width="8" height="16" fill="#00D9FF" rx="1">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1.05s" repeatCount="indefinite"/>
