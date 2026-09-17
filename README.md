@@ -68,6 +68,9 @@
 <br/>
 <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 <br/>
+<p align="center">
+  <img src="https://github.com/ashishachopra/ashishachopra/blob/output/pacman-contribution-graph-dark.svg" />
+</p>
 
 ---
 # 🚀 Concepts
