@@ -68,7 +68,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/ashishachopra/ashishachopra/blob/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ashishachopra/ashishachopra/main/assets/pacman-contribution-graph-dark.svg" alt="now" width="800"/>
 </p>
 
 ---
