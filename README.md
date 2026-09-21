@@ -81,6 +81,7 @@
 | [Databricks Bible](https://github.com/ashishachopra/TeradataBible) | Links to some great articles, guides and minds doing awesome work on Teradata |
 | [Teradata Bible](https://github.com/ashishachopra/Databricks---Bible) | Links to some great articles, guides and minds doing awesome work on Databricks |
 | [GraphDB BenchMarking](https://github.com/ashishachopra/GraphDB-Benchmarking) | GraphDB BenchMarking - Neo4j vs Amazon Neptune vs Titan vs TigerGraph vs JanusGraph vs Arangodb |
+| [RAG](https://github.com/ashishachopra/Advanced-QA-and-RAG-Series) | Advanced LLM-based chatbots for Q&A using LLM agents, and Retrieval Augmented Generation (RAG) and with different databases. (VectorDB, GraphDB, SQLite, CSV, XLSX, etc.) |
 
 ---
 # 🔧 Working Prototypes
@@ -88,6 +89,7 @@
 |---------|-------------|
 | [Python All Algos](https://github.com/ashishachopra/Python-AllAlgos) | All Algorithms implemented in Python |
 | [Agent Sheild](https://github.com/ashishachopra/AgentSheild) | AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions |
+| [AutoGPT](https://github.com/ashishachopra/AutoGPT) | AutoGPT - build, deploy, and run AI agents that carry out complete workflows.  |
 | [PyRIT](https://github.com/ashishachopra/PyRIT) | Python Risk Identification Tool for generative AI (PyRIT) - open source framework built to identify risks in GenAI systems |
 | [PenTest AI - Strix](https://github.com/ashishachopra/Pentest-AI-strix) | Open-source AI penetration testing tool to find and fix vulnerabilities |
 | [Claude E2E](https://github.com/ashishachopra/Claude-Everything), <br/> [Claude Design](https://github.com/ashishachopra/Claude-Design), <br/> [Claude SDK & Plugin](https://github.com/ashishachopra/Claude-Mem), <br/> [Claude Skills](https://github.com/ashishachopra/Claude-CodeSkills) | Claude E2E - SDK, Plugins, Design, Skills|
