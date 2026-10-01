@@ -93,9 +93,13 @@
 | [Anthropic](https://github.com/anthropics) | ANTHROPIC |
 | [LXGIC Studios](https://github.com/LXGIC-Studios) | They make open source CLI tools and full-stack products. The CLI tools all run with npx. No global installs, no config files, no accounts needed |
 | [Onyx](https://github.com/onyx-dot-app) | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [AutoGPT](https://github.com/Significant-Gravitas) | Build, deploy, and run AI agents that carry out complete workflows |
+| [HeadRoom](https://github.com/headroomlabs-ai) | Context compression layer for AI agents |
 | [Snowflake](https://github.com/Snowflake-Labs) | SNOWFLAKE |
 | [Databricks](https://github.com/databricks) | DATABRICKS |
 | [Teradata](https://github.com/teradata) | TERADATA |
+| [Neo4j](https://github.com/neo4j-contrib) | NEO4j - Public, Open Source Contributions to the Neo4j Ecosystem |
+| [Tigergraph](https://github.com/tigergraph) | TigerGraph tools, patterns, guides etc |
 
 ---
 # 🔧 Working Prototypes
