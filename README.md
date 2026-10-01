@@ -86,10 +86,16 @@
 ---
 # 🚀 Great Work Going Around 
 #### The world is full of brilliant minds, these are some I have found overtime. 
-#### Either IMAGINE & BUILD OR FOLLOW, REIMAGE & REBUILD / REUSE
+#### IMAGINE & BUILD OR FOLLOW, REIMAGE & REBUILD / REUSE
 | Project | Description |
 |---------|-------------|
+| [NVIDIA](https://github.com/NVIDIA) | NVIDIA world |
+| [Anthropic](https://github.com/anthropics) | ANTHROPIC |
 | [LXGIC Studios](https://github.com/LXGIC-Studios) | They make open source CLI tools and full-stack products. The CLI tools all run with npx. No global installs, no config files, no accounts needed |
+| [Onyx](https://github.com/onyx-dot-app) | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [Snowflake](https://github.com/Snowflake-Labs) | SNOWFLAKE |
+| [Databricks](https://github.com/databricks) | DATABRICKS |
+| [Teradata](https://github.com/teradata) | TERADATA |
 
 ---
 # 🔧 Working Prototypes
