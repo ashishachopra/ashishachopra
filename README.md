@@ -84,7 +84,9 @@
 | [RAG](https://github.com/ashishachopra/Advanced-QA-and-RAG-Series) | Advanced LLM-based chatbots for Q&A using LLM agents, and Retrieval Augmented Generation (RAG) and with different databases. (VectorDB, GraphDB, SQLite, CSV, XLSX, etc.) |
 
 ---
-# 🚀 Some Great Work Going Around (PS, The world is full of brilliant minds, these are some I have found overtime, Either imagine and build OR Follow, Reimagine and Rebuild / Reuse)
+# 🚀 Great Work Going Around 
+#### The world is full of brilliant minds, these are some I have found overtime. 
+#### Either IMAGINE & BUILD OR FOLLOW, REIMAGE & REBUILD / REUSE
 | Project | Description |
 |---------|-------------|
 | [LXGIC Studios](https://github.com/LXGIC-Studios) | They make open source CLI tools and full-stack products. The CLI tools all run with npx. No global installs, no config files, no accounts needed |
