@@ -85,8 +85,8 @@
 
 ---
 # 🚀 Great Work Going Around 
-#### The world is full of brilliant minds, these are some I have found overtime. 
-#### IMAGINE & BUILD OR FOLLOW, REIMAGE & REBUILD / REUSE
+#### The world is full of brilliant minds, below are few I found overtime. 
+#### Each person you meet knows something you don’t
 | Project | Description |
 |---------|-------------|
 | [NVIDIA](https://github.com/NVIDIA) | NVIDIA world |
