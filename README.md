@@ -102,7 +102,7 @@
 | [Tigergraph](https://github.com/tigergraph), <br/> [TG-OpenSource](https://github.com/TigerGraph-DevLabs) | TigerGraph |
 
 ---
-# 🔧 Working Prototypes - FOLLOW, REIMAGE & REBUILD / REUSE
+# 🔧 Working Prototypes - Follow, Reimage & Rebuild / Reuse
 | Project | Description |
 |---------|-------------|
 | [Python All Algos](https://github.com/ashishachopra/Python-AllAlgos) | All Algorithms implemented in Python |
