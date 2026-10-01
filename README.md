@@ -99,7 +99,7 @@
 | [Databricks](https://github.com/databricks) | DATABRICKS |
 | [Teradata](https://github.com/teradata) | TERADATA |
 | [Neo4j](https://github.com/neo4j-contrib) | NEO4j - Public, Open Source Contributions to the Neo4j Ecosystem |
-| [Tigergraph](https://github.com/tigergraph) | TigerGraph tools, patterns, guides etc |
+| [Tigergraph](https://github.com/tigergraph), <br/> [TG-OpenSource](https://github.com/TigerGraph-DevLabs) | TigerGraph |
 
 ---
 # 🔧 Working Prototypes
