@@ -93,6 +93,7 @@
 | [Anthropic](https://github.com/anthropics) | ANTHROPIC |
 | [LXGIC Studios](https://github.com/LXGIC-Studios) | They make open source CLI tools and full-stack products. The CLI tools all run with npx. No global installs, no config files, no accounts needed |
 | [Onyx](https://github.com/onyx-dot-app) | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [iMoonLabs](https://github.com/iMoonLab) | A research group at Tsinghua University, School of Software |
 | [AutoGPT](https://github.com/Significant-Gravitas) | Build, deploy, and run AI agents that carry out complete workflows |
 | [HeadRoom](https://github.com/headroomlabs-ai) | Context compression layer for AI agents |
 | [Snowflake](https://github.com/Snowflake-Labs) | SNOWFLAKE |
@@ -102,7 +103,7 @@
 | [Tigergraph](https://github.com/tigergraph), <br/> [TG-OpenSource](https://github.com/TigerGraph-DevLabs) | TigerGraph |
 
 ---
-# 🔧 Working Prototypes - Follow, Reimage & Rebuild / Reuse
+# 🔧 Working Prototypes - Follow, Reimagine & Rebuild / Reuse
 | Project | Description |
 |---------|-------------|
 | [Python All Algos](https://github.com/ashishachopra/Python-AllAlgos) | All Algorithms implemented in Python |
