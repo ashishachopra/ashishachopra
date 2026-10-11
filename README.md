@@ -85,8 +85,7 @@
 
 ---
 # 🚀 Great Work Going Around 
-#### The world is full of brilliant minds, below are few I found overtime. 
-#### Each person you meet knows something you don’t
+#### The world is full of brilliant minds, Each person you meet knows something you don’t
 | Project | Description |
 |---------|-------------|
 | [NVIDIA](https://github.com/NVIDIA) | NVIDIA world |
