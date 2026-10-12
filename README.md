@@ -114,6 +114,7 @@
 | [Claude E2E](https://github.com/ashishachopra/Claude-Everything), <br/> [Claude Design](https://github.com/ashishachopra/Claude-Design), <br/> [Claude SDK & Plugin](https://github.com/ashishachopra/Claude-Mem), <br/> [Claude Skills](https://github.com/ashishachopra/Claude-CodeSkills) | Claude E2E - SDK, Plugins, Design, Skills|
 | [Claude Rebuild](https://github.com/ashishachopra/Claude-Code-Rebuilt), <br/> [Claude Rebuild PYRUST](https://github.com/ashishachopra/Claude-Code-PYRUST) | Claude Source Code rebuilt into a runnable CLI & Python Porting|
 | [Claude FSI](https://github.com/ashishachopra/Claude-FSI) | Anthropic - Fin Services Solution |
+| [Claude Superpower](https://github.com/ashishachopra/Claude-Superpowers), <br/> [Skills for Claude Superpower](https://github.com/ashishachopra/Claude-SuperpowersLab), <br/> [Plugin for Claude Superpower](https://github.com/ashishachopra/Claude-SuperpowersMarketplace) | Agentic skills framework & software development methodology |
 | [Nvidia Skills](https://github.com/ashishachopra/Nvidia-Skills) | AI agent skills by NVIDIA |
 | [Google Research FM - Timeseries](https://github.com/ashishachopra/Google-timeSeriesFM) | TimesFM pretrained forecasting |
 | [Prompt Engineering](https://github.com/ashishachopra/Prompt_Engineering) | Tutorials and Implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies |
