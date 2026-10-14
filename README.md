@@ -100,7 +100,7 @@
 | [Teradata](https://github.com/teradata) | TERADATA |
 | [Neo4j](https://github.com/neo4j-contrib) | NEO4j - Public, Open Source Contributions to the Neo4j Ecosystem |
 | [Tigergraph](https://github.com/tigergraph), <br/> [TG-OpenSource](https://github.com/TigerGraph-DevLabs) | TigerGraph |
-| [Linkerd - Service Mesh](https://github.com/linkerd) | Linkerd - Service Mesh (RUST) |
+| [Linkerd](https://github.com/linkerd), <br/> [HashiCorp](https://github.com/hashicorp), <br/> [NGINX](https://github.com/nginxinc)  | Service Mesh & More |
 
 ---
 # 🔧 Working Prototypes - Follow, Reimagine & Rebuild / Reuse
