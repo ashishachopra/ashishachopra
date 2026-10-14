@@ -100,6 +100,7 @@
 | [Teradata](https://github.com/teradata) | TERADATA |
 | [Neo4j](https://github.com/neo4j-contrib) | NEO4j - Public, Open Source Contributions to the Neo4j Ecosystem |
 | [Tigergraph](https://github.com/tigergraph), <br/> [TG-OpenSource](https://github.com/TigerGraph-DevLabs) | TigerGraph |
+| [OpenTelemetry](https://github.com/open-telemetry), <br/> [OpenObserve](https://github.com/openobserve/openobserve), <br/> [Jaeger](https://github.com/jaegertracing), <br/> [Zipkin](https://github.com/openzipkin)| Observability & More |
 | [Linkerd](https://github.com/linkerd), <br/> [HashiCorp](https://github.com/hashicorp), <br/> [NGINX](https://github.com/nginxinc)  | Service Mesh & More |
 
 ---
