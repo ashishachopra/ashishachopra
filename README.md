@@ -96,7 +96,7 @@
 | [AutoGPT](https://github.com/Significant-Gravitas) | Build, deploy, and run AI agents that carry out complete workflows |
 | [HeadRoom](https://github.com/headroomlabs-ai) | Context compression layer for AI agents |
 | [Snowflake](https://github.com/Snowflake-Labs) | Snowflake |
-| [Databricks](https://github.com/databricks) | Databricks |
+| [Databricks](https://github.com/databricks), <br/> [Ontobricks](https://github.com/ashishachopra/DBX-Ontobricks) | Databricks |
 | [Teradata](https://github.com/teradata) | Teradata |
 | [Neo4j](https://github.com/neo4j-contrib) | Neo4jj - Public, Open Source Contributions to the Neo4j Ecosystem |
 | [Tigergraph](https://github.com/tigergraph), <br/> [TG-OpenSource](https://github.com/TigerGraph-DevLabs) | TigerGraph |
