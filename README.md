@@ -117,7 +117,7 @@
 | [Claude Rebuild](https://github.com/ashishachopra/Claude-Code-Rebuilt), <br/> [Claude Rebuild PYRUST](https://github.com/ashishachopra/Claude-Code-PYRUST) | Claude Source Code rebuilt into a runnable CLI & Python Porting|
 | [Claude FSI](https://github.com/ashishachopra/Claude-FSI) | Anthropic - Fin Services Solution |
 | [Claude Superpower](https://github.com/ashishachopra/Claude-Superpowers), <br/> [Skills for Claude Superpower](https://github.com/ashishachopra/Claude-SuperpowersLab), <br/> [Plugin for Claude Superpower](https://github.com/ashishachopra/Claude-SuperpowersMarketplace) | Agentic skills framework & software development methodology |
-| [Nvidia Skills](https://github.com/ashishachopra/Nvidia-Skills) | AI agent skills by NVIDIA |
+| [Nvidia Skills](https://github.com/ashishachopra/Nvidia-Skills), <br/> [Nvidia Ontology](https://github.com/NVIDIA/auto-ontology), <br/> [Nvidia Ontology Evaluations](https://github.com/NVIDIA/auto-ontology-eval) | Awesome NVIDIA |
 | [Google Research FM - Timeseries](https://github.com/ashishachopra/Google-timeSeriesFM) | TimesFM pretrained forecasting |
 | [Prompt Engineering](https://github.com/ashishachopra/Prompt_Engineering) | Tutorials and Implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies |
 | [LLM Benchmarks](https://github.com/ashishachopra/LLM-Perf-BenchMarks) | LLM Performance Benchmarking |
