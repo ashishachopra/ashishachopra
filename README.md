@@ -59,8 +59,9 @@
 <br/>
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishachopra&theme=cerulean" />
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishachopra&theme=cerulean" />
+<p align="center">
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishachopra&theme=cerulean" />
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishachopra&theme=cerulean&utcOffset=-6" />
+</p>
 <br/>
 
 <br/>
