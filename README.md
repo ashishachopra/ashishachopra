@@ -79,8 +79,8 @@
 | [Knowledge Books](https://github.com/ashishachopra/Book-of-Knowledge) | Collection of manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | [Ontology Docs](https://github.com/ashishachopra/Ontology-Docs) | Ontology |
 | [Snowflake Bible](https://github.com/ashishachopra/SnowflakeBible) | Links to some great articles, guides and minds doing awesome work on Snowflake |
-| [Databricks Bible](https://github.com/ashishachopra/TeradataBible) | Links to some great articles, guides and minds doing awesome work on Teradata |
-| [Teradata Bible](https://github.com/ashishachopra/Databricks---Bible) | Links to some great articles, guides and minds doing awesome work on Databricks |
+| [Databricks Bible](https://github.com/ashishachopra/Databricks---Bible) | Links to some great articles, guides and minds doing awesome work on Teradata |
+| [Teradata Bible](https://github.com/ashishachopra/TeradataBible) | Links to some great articles, guides and minds doing awesome work on Databricks |
 | [GraphDB BenchMarking](https://github.com/ashishachopra/GraphDB-Benchmarking) | GraphDB BenchMarking - Neo4j vs Amazon Neptune vs Titan vs TigerGraph vs JanusGraph vs Arangodb |
 | [RAG](https://github.com/ashishachopra/Advanced-QA-and-RAG-Series) | Advanced LLM-based chatbots for Q&A using LLM agents, and Retrieval Augmented Generation (RAG) and with different databases. (VectorDB, GraphDB, SQLite, CSV, XLSX, etc.) |
 
