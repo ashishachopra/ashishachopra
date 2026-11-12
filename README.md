@@ -144,7 +144,7 @@
 | [Snowflake](https://github.com/ashishachopra/Snowflake-Tests) | SnowflakeML-Examples |
 | [Databricks](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
 | [Teradata](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
-| [AML-FCrime-AI](https://github.com/ashishachopra/Gunner-AML-FCrime-AI) | AML compliance - AI/ML Solution with OpenAI integration |
+| [AML-FCrime-AI](https://github.com/ashishachopra/Gunner-AML-FCrime-AI) </br> [FCrime](https://github.com/ashishachopra/Awesome-Financial-Crime) | AML compliance - AI/ML Solution with OpenAI integration |
 | [Trade Surveillance-1](https://github.com/ashishachopra/DBX-Comtrade) </br> [Trade Surveillance-2](https://github.com/ashishachopra/AI-TradeSurveillance) </br> [Trade Surveillance-3](https://github.com/ashishachopra/TradeSurv) </br> [Trade Surveillance-Agents](https://github.com/ashishachopra/TSurveillance-Agents) </br> [Trade Surveillance-Plat](https://github.com/ashishachopra/TS-Sentineltrace)| Trade Surveillance Solutions |
 | [ISO Parser-Java](https://github.com/ashishachopra/Gunner-java-iso20022-parser) | JAVA - parser for ISO 20022 messages |
 | [ISO Parser-Python](https://github.com/ashishachopra/Gunner-parse-pyiso20022) | PYTHON PYISO20022 - parser for ISO 20022 messages |
