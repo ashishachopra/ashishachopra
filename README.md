@@ -100,6 +100,7 @@
 | [Databricks](https://github.com/databricks), <br/> [DatabricksSolutions](https://github.com/databricks-industry-solutions), <br/> [Ontobricks](https://github.com/ashishachopra/DBX-Ontobricks) | Databricks |
 | [Teradata](https://github.com/teradata) | Teradata |
 | [Neo4j](https://github.com/neo4j-contrib) | Neo4jj - Public, Open Source Contributions to the Neo4j Ecosystem |
+| [ELK](https://github.com/elastic) | Elastic Search  |
 | [Tigergraph](https://github.com/tigergraph), <br/> [TG-OpenSource](https://github.com/TigerGraph-DevLabs) | TigerGraph |
 | [OpenTelemetry](https://github.com/open-telemetry), <br/> [OpenObserve](https://github.com/openobserve/openobserve), <br/> [Jaeger](https://github.com/jaegertracing), <br/> [Zipkin](https://github.com/openzipkin)| Observability & More |
 | [Linkerd](https://github.com/linkerd), <br/> [HashiCorp](https://github.com/hashicorp), <br/> [NGINX](https://github.com/nginxinc)  | Service Mesh & More |
