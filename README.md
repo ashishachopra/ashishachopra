@@ -144,6 +144,7 @@
 # 📌 JFF
 | Project | Description |
 |---------|-------------|
+| [AIAgents 4Everything](https://github.com/ashishachopra/AIAgents-4Everything) | AI Agents - Input, Validation to Production Harness |
 | [Snowflake](https://github.com/ashishachopra/Snowflake-Tests) | SnowflakeML-Examples |
 | [Databricks](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
 | [Teradata](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
