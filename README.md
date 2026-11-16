@@ -89,6 +89,7 @@
 #### The world is full of brilliant minds, Each person you meet knows something you don’t
 | Project | Description |
 |---------|-------------|
+| [OPENAI](https://github.com/openai) | OPENAI world |
 | [NVIDIA](https://github.com/NVIDIA) | NVIDIA world |
 | [Anthropic](https://github.com/anthropics) | ANTHROPIC |
 | [LXGIC Studios](https://github.com/LXGIC-Studios) | They make open source CLI tools and full-stack products. The CLI tools all run with npx. No global installs, no config files, no accounts needed |
@@ -147,6 +148,7 @@
 | [AIAgents 4Everything](https://github.com/ashishachopra/AIAgents-4Everything) | AI Agents - Input, Validation to Production Harness |
 | [Snowflake](https://github.com/ashishachopra/Snowflake-Tests) | SnowflakeML-Examples |
 | [Databricks](https://github.com/ashishachopra/Gunner-DatabricksML-Examples) | DatabricksML-Examples |
+| [OpenAI Swarm](https://github.com/openai/swarm) ,</br> [OpenAI SDK](https://github.com/openai/openai-agents-python) | OpenAI-Swarm |
 | [Teradata](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
 | [AML-FCrime-AI](https://github.com/ashishachopra/Gunner-AML-FCrime-AI) </br> [FCrime](https://github.com/ashishachopra/Awesome-Financial-Crime) | AML compliance - AI/ML Solution with OpenAI integration |
 | [Trade Surveillance-1](https://github.com/ashishachopra/DBX-Comtrade) </br> [Trade Surveillance-2](https://github.com/ashishachopra/AI-TradeSurveillance) </br> [Trade Surveillance-3](https://github.com/ashishachopra/TradeSurv) </br> [Trade Surveillance-Agents](https://github.com/ashishachopra/TSurveillance-Agents) </br> [Trade Surveillance-Plat](https://github.com/ashishachopra/TS-Sentineltrace)| Trade Surveillance Solutions |
