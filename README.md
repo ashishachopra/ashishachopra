@@ -83,6 +83,7 @@
 | [Teradata Bible](https://github.com/ashishachopra/TeradataBible) | Links to some great articles, guides and minds doing awesome work on Databricks |
 | [GraphDB BenchMarking](https://github.com/ashishachopra/GraphDB-Benchmarking) | GraphDB BenchMarking - Neo4j vs Amazon Neptune vs Titan vs TigerGraph vs JanusGraph vs Arangodb |
 | [RAG](https://github.com/ashishachopra/Advanced-QA-and-RAG-Series) | Advanced LLM-based chatbots for Q&A using LLM agents, and Retrieval Augmented Generation (RAG) and with different databases. (VectorDB, GraphDB, SQLite, CSV, XLSX, etc.) |
+| [PortKey](https://portkey.ai/docs/introduction/what-is-portkey) | Portkey AI - comprehensive platform designed to streamline and enhance AI integration |
 
 ---
 # 🚀 Great Work Going Around 
