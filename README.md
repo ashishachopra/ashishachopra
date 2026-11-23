@@ -107,6 +107,7 @@
 | [REDIS](https://github.com/redis) | Redis |
 | [OpenTelemetry](https://github.com/open-telemetry), <br/> [OpenObserve](https://github.com/openobserve/openobserve), <br/> [Jaeger](https://github.com/jaegertracing), <br/> [Zipkin](https://github.com/openzipkin)| Observability & More |
 | [Linkerd](https://github.com/linkerd), <br/> [HashiCorp](https://github.com/hashicorp), <br/> [NGINX](https://github.com/nginxinc)  | Service Mesh & More |
+| [Portkey](https://github.com/Portkey-AI) | Portkey - Observability, AI Gateway |
 
 ---
 # 🔧 Working Prototypes - Follow, Reimagine & Rebuild / Reuse
