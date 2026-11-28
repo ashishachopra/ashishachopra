@@ -150,7 +150,7 @@
 |---------|-------------|
 | [AIAgents 4Everything](https://github.com/ashishachopra/AIAgents-4Everything) | AI Agents - Input, Validation to Production Harness |
 | [Snowflake](https://github.com/ashishachopra/Snowflake-Tests) | SnowflakeML-Examples |
-| [Databricks](https://github.com/ashishachopra/Gunner-DatabricksML-Examples), </br> [GraphOntologyAgent](https://github.com/ashishachopra/DBX-GraphOntologyAgent) | DatabricksML-Examples |
+| [Databricks](https://github.com/ashishachopra/Gunner-DatabricksML-Examples), </br> [Graph,Ontology,AgentNLP](https://github.com/ashishachopra/DBX-GraphOntologyAgent) | DatabricksML-Examples |
 | [OpenAI Swarm](https://github.com/openai/swarm) ,</br> [OpenAI SDK](https://github.com/openai/openai-agents-python) | OpenAI-Swarm |
 | [Teradata](https://github.com/ashishachopra/Gunner-TeradataML-Examples) | TeradataML-Examples |
 | [AML-FCrime-AI](https://github.com/ashishachopra/Gunner-AML-FCrime-AI) </br> [FCrime](https://github.com/ashishachopra/Awesome-Financial-Crime) | AML compliance - AI/ML Solution with OpenAI integration |
