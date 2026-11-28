@@ -92,7 +92,7 @@
 |---------|-------------|
 | [OPENAI](https://github.com/openai) | OPENAI |
 | [NVIDIA](https://github.com/NVIDIA) | NVIDIA |
-| [Anthropic](https://github.com/anthropics) | ANTHROPIC |
+| [Anthropic](https://github.com/anthropics); </br> [Single-Claude.md](https://github.com/ashishachopra/andrej-karpathy-skills) | ANTHROPIC |
 | [LXGIC Studios](https://github.com/LXGIC-Studios) | They make open source CLI tools and full-stack products. The CLI tools all run with npx. No global installs, no config files, no accounts needed |
 | [Onyx](https://github.com/onyx-dot-app) | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 | [iMoonLabs](https://github.com/iMoonLab) | A research group at Tsinghua University, School of Software |
